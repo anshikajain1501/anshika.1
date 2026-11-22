@@ -1,1 +1,5 @@
+ HEAD
 ﻿Version: A
+
+﻿version: B
+branch-b
